@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me via e-mail (javierlareo.c@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I do fencing
+
 
 <!---
 C0baya/C0baya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
